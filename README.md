@@ -67,7 +67,7 @@ Usuario (classe pai)
 ### Passos para Execução
 1. **Clone o repositório:**
    ```bash
-   git clone [[url-do-repositorio]](https://github.com/sousa-sara/sistema-automax.git)
+   git clone https://github.com/sousa-sara/sistema-automax.git
    cd sistema-automax
    ```
 
