@@ -62,20 +62,21 @@ Usuario (classe pai)
 
 ### Pré-requisitos
 - Java JDK 8 ou superior
-- IDE Java (IntelliJ IDEA, Eclipse, VS Code, etc.)
+- IDE VS Code
 
 ### Passos para Execução
 1. **Clone o repositório:**
    ```bash
-   git clone [url-do-repositorio]
+   git clone [[url-do-repositorio]](https://github.com/sousa-sara/sistema-automax.git)
    cd sistema-automax
    ```
 
-2. **Abra o projeto em sua IDE preferida**
+2. **Abra o projeto no VSCODE**
 
-3. **Execute a classe principal:**
+3. **Execute no Bash:**
    ```bash
-   java main.Main
+   javac -encoding UTF-8 -d bin -cp src src/main/*.java src/modelo/*.java src/servico/*.java
+   java -Dfile.encoding=UTF-8 -Dconsole.encoding=UTF-8 -cp bin main.Main
    ```
 
 4. **Faça login com as credenciais padrão:**
@@ -85,13 +86,12 @@ Usuario (classe pai)
 5. **Explore o sistema através do menu interativo!**
 
 ## 👥 Equipe de Desenvolvimento
-- **[SARA GABRIELLE SOUSA ALMEIDA]** - RA: [Seu RA]
-- **[MAYARA RAMOS PIRES]** - RA: [RA do Colega]
-- **[RENATA BARONI DE PAULA]** - RA: [RA do Colega]
-- **[LUCA MARTINS DE SOUZA CUSTODIO]** - RA: [RA do Colega]
-- **[ROBSON CAETANO REIS DE OLIVEIRA]** - RA: [RA do Colega]
-- **[RAQUEL BRITO DOS SANTOS]** - RA: [RA do Colega]
-
+- **[SARA GABRIELLE SOUSA ALMEIDA]** - RA: 
+- **[MAYARA RAMOS PIRES]** - RA: 
+- **[RENATA BARONI DE PAULA]** - RA: 
+- **[LUCA MARTINS DE SOUZA CUSTODIO]** - RA: 
+- **[ROBSON CAETANO REIS DE OLIVEIRA]** - RA: 
+- **[RAQUEL BRITO DOS SANTOS]** - RA: 
 ## 📁 Estrutura do Projeto
 
 ```
@@ -228,7 +228,4 @@ Escolha uma opção:
 
 ---
 
-## 📞 Suporte
-Para dúvidas sobre o projeto, entre em contato com a equipe de desenvolvimento.
-
-**Desenvolvido com ❤️ para a UC de Programação de Soluções Computacionais**
+**Desenvolvido com ❤️ para a disciplina de Programação de Soluções Computacionais - Anhembi Morumbi**
