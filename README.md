@@ -85,8 +85,12 @@ Usuario (classe pai)
 5. **Explore o sistema através do menu interativo!**
 
 ## 👥 Equipe de Desenvolvimento
-- **[Seu Nome]** - RA: [Seu RA]
-- **[Nome do Colega]** - RA: [RA do Colega]
+- **[SARA GABRIELLE SOUSA ALMEIDA]** - RA: [Seu RA]
+- **[MAYARA RAMOS PIRES]** - RA: [RA do Colega]
+- **[RENATA BARONI DE PAULA]** - RA: [RA do Colega]
+- **[LUCA MARTINS DE SOUZA CUSTODIO]** - RA: [RA do Colega]
+- **[ROBSON CAETANO REIS DE OLIVEIRA]** - RA: [RA do Colega]
+- **[RAQUEL BRITO DOS SANTOS]** - RA: [RA do Colega]
 
 ## 📁 Estrutura do Projeto
 
