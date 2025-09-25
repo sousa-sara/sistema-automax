@@ -86,12 +86,13 @@ Usuario (classe pai)
 5. **Explore o sistema através do menu interativo!**
 
 ## 👥 Equipe de Desenvolvimento
-- **[SARA GABRIELLE SOUSA ALMEIDA]** - RA: 
-- **[MAYARA RAMOS PIRES]** - RA: 
-- **[RENATA BARONI DE PAULA]** - RA: 
-- **[LUCA MARTINS DE SOUZA CUSTODIO]** - RA: 
-- **[ROBSON CAETANO REIS DE OLIVEIRA]** - RA: 
-- **[RAQUEL BRITO DOS SANTOS]** - RA: 
+- **[SARA GABRIELLE SOUSA ALMEIDA]** 
+- **[MAYARA RAMOS PIRES]**
+- **[RENATA BARONI DE PAULA]**
+- **[LUCA MARTINS DE SOUZA CUSTODIO]**
+- **[ROBSON CAETANO REIS DE OLIVEIRA]**
+- **[RAQUEL BRITO DOS SANTOS]**
+
 ## 📁 Estrutura do Projeto
 
 ```
